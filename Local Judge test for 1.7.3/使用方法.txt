@@ -1,0 +1,7 @@
+﻿准备好 rand.cpp,user.cpp(测试),std.cpp(正解)。(不用管文件输入输出，不用创建 exe)
+
+进入 check_judge.cpp,修改好参数。
+
+最后启动check_judge.exe。
+
+注：你的 rand.exe 可以在 case.text 中读取当前测试点编号，并且可以把 编号和时间 作为随机数种子。
