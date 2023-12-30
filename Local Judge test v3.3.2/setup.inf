@@ -1,6 +1,0 @@
-C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\g++.exe
--std=c++14 -Wall -Wl,--stack=1000000000
-consolas
-10
-1000
-1
